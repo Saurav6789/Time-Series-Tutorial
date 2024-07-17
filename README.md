@@ -1,0 +1,35 @@
+# Table of Contents
+- 1.Introduction to Time Series
+- 2.What is Time Series?
+- 3.What is not a Time Series
+- 4.Where we can find the Time Series Data?
+- 5.Features of the Time Series Data
+- 6.Time Series Assumptions
+- 7.Time Series Types
+- 8.Reading and Saving Time Series Objects in Python
+- 9.Components of the Time Series
+- 10.Decomposition of Time Series
+- 11.Moving average forecast
+- 12.Handling Missing Values
+- 13.Time Series Range, Accuracy and Various Requirements
+- 14.ETS Models
+  - 14.1 SES, Holt & Holt-Winter Model
+    - 14.1.1 SES - ETS(A, N, N) - Simple smoothing with additive errors
+    - 14.1.2 Holt - ETS(A, A, N) - Holt's linear method with additive errors
+    - 14.1.3 Holt-Winters - ETS(A, A, A) - Holt Winter's linear method with additive errors
+    - 14.1.4 Holt-Winters - ETS(A, A, M) - Holt Winter's linear method
+  - 14.2 Model finalization
+     - 14.2.1 Regression on Time
+     - 14.2.2 Regression on Time With Seasonal Components
+     - 14.2.3 Naive Approach
+     - 14.2.4 Simple Average
+     - 14.2.5 Moving Average(MA)
+     - 14.2.6 Simple Exponential Smoothing
+     - 14.2.7 Holt's Linear Trend Method (Double Exponential Smoothing)
+     - 14.2.8 Holt-Winters Method - Additive seasonality
+     - 14.2.9 Holt-Winters Method - Multiplicative Model
+- 15.AUTO REGRESSIVE Models
+     - 15.1 Random Walk
+     - 15.2 ARIMA Model
+     - 15.3 Auto ARIMA
+- 16.References
